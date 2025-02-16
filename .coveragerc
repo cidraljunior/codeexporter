@@ -1,0 +1,9 @@
+[run]
+source = codeexporter
+omit = 
+    */tests/*
+    */__init__.py
+
+[report]
+show_missing = true
+skip_covered = true
