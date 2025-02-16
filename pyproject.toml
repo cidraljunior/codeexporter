@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "codeexporter"
-version = "0.1.0"
+version = "0.1.1"
 description = "A powerful CLI tool to export project code for AI analysis."
 keywords = ["code analysis", "AI", "export"]
 urls = { Homepage = "https://github.com/cidraljunior/codeexporter" }
@@ -54,7 +54,7 @@ package-dir = {"" = "."}
 
 [tool.commitizen]
 name = "cz_conventional_commits"
-version = "0.1.0"  # Initial version
+version = "0.1.1"  # Initial version
 version_files = [
     "pyproject.toml:version"
 ]
