@@ -58,4 +58,4 @@ version = "0.1.0"  # Initial version
 version_files = [
     "pyproject.toml:version"
 ]
-tag_format = "v$version"
+tag_format = "$version"
